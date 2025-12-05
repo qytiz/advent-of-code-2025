@@ -6,14 +6,6 @@ Each day’s puzzle is organized in its own folder and includes:
 
 - `input.txt` — the puzzle input
 - `part_x_solution.rb` — the script containing the solution logic
-- Additional helper scripts or classes when needed
-
-The goal of this repository is to provide clear and well-structured Ruby solutions that emphasize:
-
-- Readability
-- Correctness
-- Performance where useful
-- Reusable helper utilities when multiple days share logic
 
 ## Running Solutions
 
