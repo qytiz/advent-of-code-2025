@@ -1,4 +1,4 @@
-input_data = File.read(File.dirname(__FILE__) + '/../input.txt').split("\n")
+input_data = File.read(File.dirname(__FILE__) + '/input.txt').split("\n")
 @current_position = 50
 @prev_position = 50
 @zero_passed = false

@@ -1,4 +1,4 @@
-input_data = File.read(File.dirname(__FILE__) + '/../input_test.txt').split("\n")
+input_data = File.read(File.dirname(__FILE__) + '/input_test.txt').split("\n")
 highest_combinations = []
 input_data.each do |line|
   chars = line.to_s.chars

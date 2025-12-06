@@ -1,4 +1,4 @@
-@ranges,@ids = File.read(File.dirname(__FILE__) + '/../input.txt').split("\n\n")
+@ranges,@ids = File.read(File.dirname(__FILE__) + '/input.txt').split("\n\n")
 @total_list_of_not_spoiled_ids=[]
 @fresh_ids_amount=0
 

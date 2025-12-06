@@ -1,4 +1,4 @@
-input_data = File.read(File.dirname(__FILE__) + '/../input.txt').split(",")
+input_data = File.read(File.dirname(__FILE__) + '/input.txt').split(",")
 repeats = []
 
 def find_all_options(id)

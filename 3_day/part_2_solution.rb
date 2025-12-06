@@ -1,4 +1,4 @@
-input_data = File.read(File.dirname(__FILE__) + '/../input.txt').split("\n")
+input_data = File.read(File.dirname(__FILE__) + '/input.txt').split("\n")
 highest_combinations = []
 
 def find_indexes_of_highest_digit(chars, next_highest_index)
